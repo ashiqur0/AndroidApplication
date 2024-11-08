@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495874774478",
+    "project_id": "signup-login-firebase-22a2c",
+    "storage_bucket": "signup-login-firebase-22a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495874774478:android:8a33dc840aad5f5044879f",
+        "android_client_info": {
+          "package_name": "com.zara.signuploginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB1Dv1kmdw6LWxIcwFQ6oBcWXHmcpEVMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
